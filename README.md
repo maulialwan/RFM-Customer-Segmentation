@@ -12,25 +12,28 @@ RFM stands for:
 - Frequency: How often does a customer purchase?
 - Monetary: How much does a customer spend?
 
+****
+
 According to the RFM analysis, customers can be divided into four main segments, which are:
 
 |Segment|RFM Score|
 |---|---|
 |Bronze|3-5|
 |Silver|6-8|
-|Gold|9-10|
-|Platinum|11-12|
+|Gold|9-11|
+|Platinum|12|
 
 Ultimately, the table below depicts the mean value of RFM and the number of customers of each segment:
 
-                       Recency   Frequency   Monetary    RFMSegment
+                       Recency	Frequency   Monetary	RFMSegment
     Customer Segment
 			
-          Platinum      13.82     278.14      5990.12     757
-          Gold          40.55     94.42       1849.02     761
-          Bronze        190.95    14.76       257.98      1175
-          Silver        80.09     40.32       790.22      1226
+          Platinum      7.46     	16.97      9041.93     378
+          Gold          32.04    	6.11       2550.78     898
+          Silver        60.11    	2.44       919.38      1133
+          Bronze        174.95   	1.31       306.93      1510
           
+****
 
 **Action Plan**
 
@@ -40,12 +43,24 @@ Since platinum is the best group of customers, this group generates a high perce
 
 **2. Gold**
 
-This group has a little bit lower than platinum group characteristics, consisting of customers who spent a lot of money. The main difference with the platinum group is in the recency value. Thus, we can give them a loyalty program or reward point, an offer of luxury goods, and a regular limited attractive offer with a discount or cashback voucher via email.
+This group has a little bit lower than platinum group characteristics, consisting of customers who spent a lot of money. The main difference with the platinum group is in the recency value. However, they have a high potential to enter the platinum customer segment. Thus, we can give them a loyalty program or reward point, an offer of luxury goods, and a regular limited attractive offer with a discount or cashback voucher via email to trigger them to make more purchases.
 
 **3. Silver**
 
-This group consists of various customers characteristics, including new-joined customers who purchased a high amount. We can regularly give discounts and cashback vouchers, and another kind of reactivation and retention strategy such as limited offer via email and ads to maintain relationships.
+This group consists of various customers characteristics, including new-joined customers who purchased a high amount. Even though they have been a while since their last transaction, they show promising signs as the value of their purchase is quite significant. We can regularly give discounts and cashback vouchers, and another kind of reactivation and retention strategy such as limited offers via email and ads to maintain relationships.
 
 **4. Bronze**
 
-This group is a 'lost customer' group. We can treat them with a reactivation strategy, such as an email campaign to make them aware and ask them to give feedback to us. If they provide us with feedback, we can know their preferences and why they are inactive. 
+This group needs attention and requires activation. They made some purchases, but they have not back to us. Was it an inconvenient customer experience? We can treat them with a reactivation strategy, such as an email campaign to make them aware and ask them to give feedback to us. If they provide us with feedback, we can know their preferences and why they are inactive. 
+
+****
+
+By performing RFM segmentation, we can answer some of the questions that are useful for our business improvement, such as:
+- Who are the best customers?
+- Who are the loyal customers?
+- Which are customers who tend to churn?
+- Who are the lost customers you need to pay much attention to?
+- Which customers have the potential to be converted into more loyal customers?
+
+And so on.
+
